@@ -1,2 +1,2 @@
 # ModularExponential.py
-Taken from various sources to understand modulo exponents
+Taken from various sources to understand modular exponentiation
