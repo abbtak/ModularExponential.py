@@ -1,5 +1,4 @@
 #This information was found in wiki and the code below is based to the pseudocode in the article.
-#In pseudocode, this method can be performed the following way:
 
 #function modular_pow(base, exponent, modulus) is
 #    if modulus = 1 then
@@ -8,9 +7,6 @@
 #    for e_prime = 0 to exponent-1 do
 #        c := (c * base) mod modulus
 #    return c
-
-#The following is an example in pseudocode based on Applied Cryptography by Bruce Schneier.[2]
-# The inputs base, exponent, and modulus correspond to b, e, and m in the equations given above.
 
 #function modular_pow(base, exponent, modulus) is
 #    if modulus = 1 then
